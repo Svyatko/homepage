@@ -1,1 +1,3 @@
-# homepage
+# Homepage
+
+What the awesome homepage
