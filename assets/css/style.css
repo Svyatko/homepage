@@ -2,3 +2,9 @@
     width: 150%;
     border-radius: 100%;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
